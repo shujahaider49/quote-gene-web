@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/quote-gene-web/static/css/main.e6c13ad2.css",
+    "main.js": "/quote-gene-web/static/js/main.0c4650fe.js",
+    "static/js/787.b1322faf.chunk.js": "/quote-gene-web/static/js/787.b1322faf.chunk.js",
+    "index.html": "/quote-gene-web/index.html",
+    "main.e6c13ad2.css.map": "/quote-gene-web/static/css/main.e6c13ad2.css.map",
+    "main.0c4650fe.js.map": "/quote-gene-web/static/js/main.0c4650fe.js.map",
+    "787.b1322faf.chunk.js.map": "/quote-gene-web/static/js/787.b1322faf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.0c4650fe.js"
+  ]
+}
